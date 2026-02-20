@@ -1,0 +1,7 @@
+EC2 create requirements:
+
+1. AMI
+2. VPC
+3. Subnet
+4. Instance Type(t2.micro,t3.micro etc)
+5. KeyName
